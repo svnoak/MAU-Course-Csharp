@@ -1,0 +1,15 @@
+E:\Documents\Programming\CSHARP\Excercise 2\bin\Debug\net6.0\Excercise 2.exe
+E:\Documents\Programming\CSHARP\Excercise 2\bin\Debug\net6.0\Excercise 2.deps.json
+E:\Documents\Programming\CSHARP\Excercise 2\bin\Debug\net6.0\Excercise 2.runtimeconfig.json
+E:\Documents\Programming\CSHARP\Excercise 2\bin\Debug\net6.0\Excercise 2.dll
+E:\Documents\Programming\CSHARP\Excercise 2\bin\Debug\net6.0\ref\Excercise 2.dll
+E:\Documents\Programming\CSHARP\Excercise 2\bin\Debug\net6.0\Excercise 2.pdb
+E:\Documents\Programming\CSHARP\Excercise 2\obj\Debug\net6.0\Excercise 2.csproj.AssemblyReference.cache
+E:\Documents\Programming\CSHARP\Excercise 2\obj\Debug\net6.0\Excercise 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\Programming\CSHARP\Excercise 2\obj\Debug\net6.0\Excercise 2.AssemblyInfoInputs.cache
+E:\Documents\Programming\CSHARP\Excercise 2\obj\Debug\net6.0\Excercise 2.AssemblyInfo.cs
+E:\Documents\Programming\CSHARP\Excercise 2\obj\Debug\net6.0\Excercise 2.csproj.CoreCompileInputs.cache
+E:\Documents\Programming\CSHARP\Excercise 2\obj\Debug\net6.0\Excercise 2.dll
+E:\Documents\Programming\CSHARP\Excercise 2\obj\Debug\net6.0\ref\Excercise 2.dll
+E:\Documents\Programming\CSHARP\Excercise 2\obj\Debug\net6.0\Excercise 2.pdb
+E:\Documents\Programming\CSHARP\Excercise 2\obj\Debug\net6.0\Excercise 2.genruntimeconfig.cache
