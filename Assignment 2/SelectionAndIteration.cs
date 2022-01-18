@@ -34,39 +34,6 @@ namespace AssignmentA2
                 }
             } while (length > 0);
         }
-        private void SumNumbers()
-        {
-            Console.WriteLine("Give a start number:");
-            string stringStartNumberInput = Console.ReadLine();
-            
-            Console.WriteLine("Give an end number:");
-            string stringEndNumberInput = Console.ReadLine();
-
-            int startNumberInput = int.Parse(stringStartNumberInput);
-            int endNumberInput = int.Parse(stringEndNumberInput);
-
-            int startNumber;
-            int endNumber;
-
-            if( startNumberInput > endNumberInput )
-            {
-                endNumber = startNumberInput;
-                startNumber = endNumberInput;
-            }
-            else
-            {
-                startNumber = startNumberInput;
-                endNumber = endNumberInput;
-            }
-
-            int result = 0;
-
-            for (int i = startNumber; i <= endNumber; i++)
-            {
-                result = result + i;
-            }
-            Console.WriteLine("The sum of the numbers " + startNumber + " and " + endNumber + " is: " + result);
-        }
         private void MakeMyDay()
         {
             Console.WriteLine("I can predict your day for you. Give me a number between 1 and 7:");
@@ -97,6 +64,39 @@ namespace AssignmentA2
                     Console.WriteLine("Not in a good mode? This is not a valid date!");
                     break;
             }
+        }
+        private void SumNumbers()
+        {
+            Console.WriteLine("Give a start number:");
+            string stringStartNumberInput = Console.ReadLine();
+
+            Console.WriteLine("Give an end number:");
+            string stringEndNumberInput = Console.ReadLine();
+
+            int startNumberInput = int.Parse(stringStartNumberInput);
+            int endNumberInput = int.Parse(stringEndNumberInput);
+
+            int startNumber;
+            int endNumber;
+
+            if (startNumberInput > endNumberInput)
+            {
+                endNumber = startNumberInput;
+                startNumber = endNumberInput;
+            }
+            else
+            {
+                startNumber = startNumberInput;
+                endNumber = endNumberInput;
+            }
+
+            int result = 0;
+
+            for (int i = startNumber; i <= endNumber; i++)
+            {
+                result = result + i;
+            }
+            Console.WriteLine("The sum of the numbers " + startNumber + " and " + endNumber + " is: " + result);
         }
     }
 }

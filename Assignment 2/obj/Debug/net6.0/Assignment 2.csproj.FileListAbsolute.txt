@@ -1,0 +1,15 @@
+E:\Documents\Programming\MAU-Course-Csharp\Assignment 2\bin\Debug\net6.0\Assignment 2.exe
+E:\Documents\Programming\MAU-Course-Csharp\Assignment 2\bin\Debug\net6.0\Assignment 2.deps.json
+E:\Documents\Programming\MAU-Course-Csharp\Assignment 2\bin\Debug\net6.0\Assignment 2.runtimeconfig.json
+E:\Documents\Programming\MAU-Course-Csharp\Assignment 2\bin\Debug\net6.0\Assignment 2.dll
+E:\Documents\Programming\MAU-Course-Csharp\Assignment 2\bin\Debug\net6.0\ref\Assignment 2.dll
+E:\Documents\Programming\MAU-Course-Csharp\Assignment 2\bin\Debug\net6.0\Assignment 2.pdb
+E:\Documents\Programming\MAU-Course-Csharp\Assignment 2\obj\Debug\net6.0\Assignment 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\Programming\MAU-Course-Csharp\Assignment 2\obj\Debug\net6.0\Assignment 2.AssemblyInfoInputs.cache
+E:\Documents\Programming\MAU-Course-Csharp\Assignment 2\obj\Debug\net6.0\Assignment 2.AssemblyInfo.cs
+E:\Documents\Programming\MAU-Course-Csharp\Assignment 2\obj\Debug\net6.0\Assignment 2.csproj.CoreCompileInputs.cache
+E:\Documents\Programming\MAU-Course-Csharp\Assignment 2\obj\Debug\net6.0\Assignment 2.dll
+E:\Documents\Programming\MAU-Course-Csharp\Assignment 2\obj\Debug\net6.0\ref\Assignment 2.dll
+E:\Documents\Programming\MAU-Course-Csharp\Assignment 2\obj\Debug\net6.0\Assignment 2.pdb
+E:\Documents\Programming\MAU-Course-Csharp\Assignment 2\obj\Debug\net6.0\Assignment 2.genruntimeconfig.cache
+E:\Documents\Programming\MAU-Course-Csharp\Assignment 2\obj\Debug\net6.0\Assignment 2.csproj.AssemblyReference.cache

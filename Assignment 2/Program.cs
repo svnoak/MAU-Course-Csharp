@@ -5,11 +5,10 @@ namespace AssignmentA2
     {
         static void Main(string[] args){
             Console.Title = "Selection and iteration in C#";
-            SelectionAndIteration warumupObj = new SelectionAndIteration();
-
+            new SelectionAndIteration();
+            new TemperatureConverter();
             Console.WriteLine("Press any key to continue!");
             Console.ReadLine();
         }
     }
-
 }
