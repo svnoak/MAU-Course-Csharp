@@ -3,7 +3,7 @@ namespace AssignmentA2
     using System;
     class Program
     {
-        static void Main(string[] args){
+        static void Main(){
             Console.Title = "Selection and iteration in C#";
             new SelectionAndIteration();
             new TemperatureConverter();

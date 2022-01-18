@@ -12,4 +12,3 @@ E:\Documents\Programming\MAU-Course-Csharp\Assignment 2\obj\Debug\net6.0\Assignm
 E:\Documents\Programming\MAU-Course-Csharp\Assignment 2\obj\Debug\net6.0\ref\Assignment 2.dll
 E:\Documents\Programming\MAU-Course-Csharp\Assignment 2\obj\Debug\net6.0\Assignment 2.pdb
 E:\Documents\Programming\MAU-Course-Csharp\Assignment 2\obj\Debug\net6.0\Assignment 2.genruntimeconfig.cache
-E:\Documents\Programming\MAU-Course-Csharp\Assignment 2\obj\Debug\net6.0\Assignment 2.csproj.AssemblyReference.cache

@@ -43,7 +43,7 @@ namespace AssignmentA2
         {
             Console.WriteLine("   Your choice:");
             string stringChoice = Console.ReadLine();
-            if( stringChoice.Length > 0)
+            if( stringChoice.Length > 0 )
             {
                 choice = int.Parse(stringChoice);
             }
