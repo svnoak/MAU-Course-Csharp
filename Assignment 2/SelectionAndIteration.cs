@@ -5,9 +5,9 @@ namespace AssignmentA2
     {
         public SelectionAndIteration()
         {
-            Console.WriteLine();
-            Console.WriteLine("My name i: Kim I am a student of the VT22 semester!");
-            Console.WriteLine();
+
+            // Initialize rest of methods.
+            ShowIntroduction();
 
             ShowStringLength();
 
@@ -16,29 +16,53 @@ namespace AssignmentA2
 
             SumNumbers();
         }
+        private void ShowIntroduction()
+        {
+            // Write introduction to screen.
+            Console.WriteLine();
+            Console.WriteLine("My name is Kim and I am a student of the VT22 semester!");
+            Console.WriteLine();
+        }
         private void ShowStringLength()
         {
+
+            // Variables are partly used as condition.
+            // Grouped for better overview.
             string input;
             int length;
+
+            // Loop as long input is given.
             do
             {
+
+                // Introduction text to user.
                 Console.WriteLine();
                 Console.WriteLine("Let me calculate the length of strings for you!");
                 Console.WriteLine("Give me a text of any length, or press Enter to exit!");
+                
+                // Assign variables for output and condition check.
                 input = Console.ReadLine().ToUpper();
                 length = input.Length;
-                if( length > 0 ){
+
+                // Give output if input was given.
+                if( length > 0 ){ 
                     Console.WriteLine();
                     Console.WriteLine(input);
                     Console.WriteLine("Has " + length + " characters.");
                 }
             } while (length > 0);
         }
+
         private void MakeMyDay()
         {
+            // Introduction text
             Console.WriteLine("I can predict your day for you. Give me a number between 1 and 7:");
+
+            // Parse input to integer for use in switch statement
             string stringInput = Console.ReadLine();
             int number = int.Parse(stringInput);
+
+            // Show choosen number case.
             switch(number)
             {
                 case 1:
@@ -73,12 +97,17 @@ namespace AssignmentA2
             Console.WriteLine("Give an end number:");
             string stringEndNumberInput = Console.ReadLine();
 
+            // Parsing numbers from strings from input
+
             int startNumberInput = int.Parse(stringStartNumberInput);
             int endNumberInput = int.Parse(stringEndNumberInput);
 
+            // Declaring variables for better grouping and overview.
             int startNumber;
             int endNumber;
 
+            // Check statement for switching numbers if necessary.
+            // Smallest number must always be first.
             if (startNumberInput > endNumberInput)
             {
                 endNumber = startNumberInput;
@@ -89,6 +118,8 @@ namespace AssignmentA2
                 startNumber = startNumberInput;
                 endNumber = endNumberInput;
             }
+
+            // Loop to sum the numbers.
 
             int result = 0;
 

@@ -6,6 +6,9 @@ namespace AssignmentA2
         int choice = -1;
         public TemperatureConverter()
         {
+
+            // Initialize methods.
+            // Repeat as long as no option is choosen.
             while (choice != 0)
             {
                 DisplayMenu();
@@ -26,6 +29,8 @@ namespace AssignmentA2
         }
         private void DisplayMenu()
         {
+
+            // Displays user choice possibilities for SelectOption.
             Console.WriteLine("------------------------------------");
             Console.WriteLine();
             Console.WriteLine("             MAIN MENU              ");
@@ -41,8 +46,14 @@ namespace AssignmentA2
         }
         private void SelectOption()
         {
+
+            // Checking if any input is given and assign it to choice variable.
             Console.WriteLine("   Your choice:");
             string stringChoice = Console.ReadLine();
+            
+            // Only assign choice if input is given.
+            // Used for checking if menu should be shown again
+            // see constructor for how choice is used.
             if( stringChoice.Length > 0 )
             {
                 choice = int.Parse(stringChoice);
@@ -54,6 +65,8 @@ namespace AssignmentA2
             for (int celsius = 0; celsius <= max; celsius += 4)
             {
                 double fahrenheit = CelsiusToFahrenHeit(celsius);
+
+                // Creating columns for better readability.
                 Console.WriteLine("{0,15} {1,15}", celsius.ToString("0.00") + " C = ", fahrenheit.ToString("0.00") + " F" );
             }
         }
@@ -63,6 +76,8 @@ namespace AssignmentA2
             for (int fahrenheit = 0; fahrenheit <= max; fahrenheit += 10)
             {
                 double celsius = FahrenheitToCelsius(fahrenheit);
+
+                // Creating columns for better readability.
                 Console.WriteLine("{0,15} {1,15}", fahrenheit.ToString("0.00") + " F = ", celsius.ToString("0.00") + " C");
             }
         }
