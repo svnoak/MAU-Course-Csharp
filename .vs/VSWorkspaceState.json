@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Assignment 1",
+    "\\Assignment 2"
   ],
-  "SelectedNode": "\\Assignment 2_old",
+  "SelectedNode": "\\Assignment 2\\TemperatureConverter.cs",
   "PreviewInSolutionExplorer": false
 }

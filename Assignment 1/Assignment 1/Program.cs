@@ -1,13 +1,15 @@
-namespace AssignmentA1
+﻿namespace AssignmentA1
 {
     using System;
     class Program
     {
         static void Main(string[] args)
         {
+            // Creating new objects from class and calling Start() method.
+
             Pet petObj = new Pet();
             petObj.Start();
-            
+
             ContinueToNext();
 
             TicketSeller ticketObj = new TicketSeller();
@@ -22,6 +24,9 @@ namespace AssignmentA1
         }
         private static void ContinueToNext()
         {
+
+            // Repetetive lines that are reused in Main
+            // Forcing user input to continue method.
             Console.WriteLine();
             Console.WriteLine("Press Enter to start next part.");
             Console.ReadLine();
