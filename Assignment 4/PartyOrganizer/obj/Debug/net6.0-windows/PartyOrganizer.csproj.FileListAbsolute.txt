@@ -1,0 +1,17 @@
+E:\Documents\Programming\MAU-Course-Csharp\Assignment 4\PartyOrganizer\bin\Debug\net6.0-windows\PartyOrganizer.exe
+E:\Documents\Programming\MAU-Course-Csharp\Assignment 4\PartyOrganizer\bin\Debug\net6.0-windows\PartyOrganizer.deps.json
+E:\Documents\Programming\MAU-Course-Csharp\Assignment 4\PartyOrganizer\bin\Debug\net6.0-windows\PartyOrganizer.runtimeconfig.json
+E:\Documents\Programming\MAU-Course-Csharp\Assignment 4\PartyOrganizer\bin\Debug\net6.0-windows\PartyOrganizer.dll
+E:\Documents\Programming\MAU-Course-Csharp\Assignment 4\PartyOrganizer\bin\Debug\net6.0-windows\ref\PartyOrganizer.dll
+E:\Documents\Programming\MAU-Course-Csharp\Assignment 4\PartyOrganizer\bin\Debug\net6.0-windows\PartyOrganizer.pdb
+E:\Documents\Programming\MAU-Course-Csharp\Assignment 4\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.csproj.AssemblyReference.cache
+E:\Documents\Programming\MAU-Course-Csharp\Assignment 4\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.csproj.GenerateResource.cache
+E:\Documents\Programming\MAU-Course-Csharp\Assignment 4\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\Programming\MAU-Course-Csharp\Assignment 4\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.AssemblyInfoInputs.cache
+E:\Documents\Programming\MAU-Course-Csharp\Assignment 4\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.AssemblyInfo.cs
+E:\Documents\Programming\MAU-Course-Csharp\Assignment 4\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.csproj.CoreCompileInputs.cache
+E:\Documents\Programming\MAU-Course-Csharp\Assignment 4\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.dll
+E:\Documents\Programming\MAU-Course-Csharp\Assignment 4\PartyOrganizer\obj\Debug\net6.0-windows\ref\PartyOrganizer.dll
+E:\Documents\Programming\MAU-Course-Csharp\Assignment 4\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.pdb
+E:\Documents\Programming\MAU-Course-Csharp\Assignment 4\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.genruntimeconfig.cache
+E:\Documents\Programming\MAU-Course-Csharp\Assignment 4\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.MainForm.resources

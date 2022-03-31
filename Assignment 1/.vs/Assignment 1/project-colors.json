@@ -5,7 +5,12 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
+    },
+    "7774231a-4263-4d83-9575-90e1c8f5db10": {
+      "ProjectGuid": "7774231a-4263-4d83-9575-90e1c8f5db10",
+      "DisplayName": "Assignment 1",
+      "ColorIndex": 0
     }
   },
-  "NextColorIndex": 0
+  "NextColorIndex": 1
 }

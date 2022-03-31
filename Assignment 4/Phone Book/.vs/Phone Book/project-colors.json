@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0ef1057f-bf46-4924-9b96-7e27136280cb": {
+      "ProjectGuid": "0ef1057f-bf46-4924-9b96-7e27136280cb",
+      "DisplayName": "Phone Book",
+      "ColorIndex": 0
+    },
+    "94f49db9-7a51-46c5-9975-259b533e3d0a": {
+      "ProjectGuid": "94f49db9-7a51-46c5-9975-259b533e3d0a",
+      "DisplayName": "Party Organizer",
+      "ColorIndex": 1
+    },
+    "92dac719-df67-46cf-b47c-a2dd0b09fe5b": {
+      "ProjectGuid": "92dac719-df67-46cf-b47c-a2dd0b09fe5b",
+      "DisplayName": "Party Organizers",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

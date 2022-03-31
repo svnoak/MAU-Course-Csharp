@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3cb6e401-0b52-4877-aa20-86d100cb62a1": {
+      "ProjectGuid": "3cb6e401-0b52-4877-aa20-86d100cb62a1",
+      "DisplayName": "PartyOrganizer",
+      "ColorIndex": 0
+    },
+    "94f49db9-7a51-46c5-9975-259b533e3d0a": {
+      "ProjectGuid": "94f49db9-7a51-46c5-9975-259b533e3d0a",
+      "DisplayName": "Party Organizer",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
